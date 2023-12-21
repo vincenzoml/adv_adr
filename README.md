@@ -2,7 +2,7 @@
 
 ## Text (work in progress: I'm working on it together with Perplexity.AI, don't look at it yet)
 
-[text.md]
+[text.md](text.md)
 
 ## List of people
 
